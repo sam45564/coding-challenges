@@ -10,17 +10,17 @@ Once installed and ready to go, place the project code in your desired location 
 **python -m geektrust <absolute_path_to_the_input_file>**
 
 The input file may contain any of the following or similar values to test the solution:
-* AIR ROZO
-  LAND FAIJWJSOOFAMAU
-  ICE STHSTSTVSASOS 
-* LAND FDIXXSOKKOFBBMU
-  ICE MOMAMVTMTMHTM
-  WATER SUMMER IS COMING
-  AIR OWLAOWLBOWLC
+* AIR ROZO<br />
+  LAND FAIJWJSOOFAMAU<br />
+  ICE STHSTSTVSASOS <br />
+* LAND FDIXXSOKKOFBBMU<br />
+  ICE MOMAMVTMTMHTM<br />
+  WATER SUMMER IS COMING<br />
+  AIR OWLAOWLBOWLC<br />
   FIRE AJXGAMUTA
-* AIR OWLAOWLBOWLC
-  LAND OFBBMUFDICCSO
-  ICE VTBTBHTBBBOBAB
+* AIR OWLAOWLBOWLC<br />
+  LAND OFBBMUFDICCSO<br />
+  ICE VTBTBHTBBBOBAB<br />
   WATER SUMMER IS COMING
 
 ***
